@@ -7,4 +7,16 @@ For many incumbent operators, retaining high profitable customers is the number 
 
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 
+We need to identify customers who are likely to churn in future, given the previous months data to predict
+We need to define this churn only in high value customers
+In the given data there are three phases in the data, the good phase, action phase and churn phase
+we have to make use of the good an daction phase to predict the churn
+Steps of Approach
 
+1. Reading data
+2. Missing Value data
+3. High value customers
+4. Tagging churn vs non-churn
+5. EDA
+6. Model building
+7. Business Recomendations
